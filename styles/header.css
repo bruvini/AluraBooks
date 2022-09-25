@@ -1,10 +1,10 @@
 .cabecalho__menu-hamburguer {
-    width: 25px;
-    height: 25px;
+    width: 24px;
+    height: 24px;
     background-image: url(../img/Menu.svg);
-    display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+    display: inline-block;
 }
 
 .cabecalho {
